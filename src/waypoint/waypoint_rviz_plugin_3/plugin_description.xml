@@ -1,0 +1,9 @@
+<library path="waypoint_rviz_plugin_3">
+  <class name="waypoint_rviz_plugin_3/WaypointTool"
+         type="waypoint_rviz_plugin_3::WaypointTool"
+         base_class_type="rviz_common::Tool">
+    <description>
+      A tool for sending waypoints
+    </description>
+  </class>
+</library>
